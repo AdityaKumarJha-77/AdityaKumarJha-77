@@ -1,75 +1,69 @@
-<h1 align="center">Hi 👋, I'm Aditya Kumar Jha</h1>
-<h3 align="center">Computer Science Engineer | Aspiring Entrepreneur & Businessman | Future Prompt Engineer & Data Analyst</h3>
+<!-- WELCOME SECTION -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=500&color=00F5D4&center=true&vCenter=true&width=800&lines=👋+Hey%2C+I'm+Aditya+Kumar+Jha;Computer+Science+Engineer;Future+Entrepreneur+%7C+Businessman;Aspiring+Prompt+Engineer+%26+Data+Analyst" alt="Typing SVG" />
+</h1>
 
 ---
 
+## 🚀 About Me  
+- 👨‍💻 Strong grasp in **C, Python, Java, HTML, CSS, JavaScript**  
+- 💡 Dedicated towards **growth** and always ready for **challenges**  
+- 🎯 Goal: **Blend technology with business** to create impactful solutions  
+- 🌟 Exploring **AI, Prompt Engineering, and Data Analytics**  
+
+---
+
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="mailto:adityatechno663@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="http://www.linkedin.com/in/adityakumarjha999"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=AdityaKumarJha&label=Profile%20views&color=0e75b6&style=flat" alt="AdityaKumarJha" /> 
 </p>
-
 ---
 
-### 👨‍💻 About Me
-- 🌱 Currently mastering **Prompt Engineering, Data Analytics & AI**  
-- 💻 Skilled in **C, Python, Java, HTML, CSS, JavaScript**  
-- 🚀 Dedicated towards personal **growth** and accept **challenges**  
-- 🎯 Vision: **Blend tech with business to create impactful solutions**  
-
----
-
-### 📬 Connect with Me:
-<p align="left">
-<a href="mailto:adityatechno663@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="http://www.linkedin.com/in/adityakumarjha999"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</p>
-
----
-
-### 📊 GitHub Stats:
+## 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaKumarJha&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,javascript&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaKumarJha&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdityaKumarJha&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumarJha&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKumarJha&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaKumarJha&theme=matrix&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+## 💡 What Makes Me Unique  
+✅ Multi-domain skills → **Programming + Analytics + Prompt Engineering**  
+✅ Entrepreneurial mindset with a **business-first vision**  
+✅ **Fast adaptability** & continuous learner  
+✅ Problem-solver who thrives under challenges  
+
+---
+
+## 🐍 Dynamic Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdityaKumarJha/AdityaKumarJha/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKumarJha&layout=compact&theme=radical" alt="langs" />
+  <b>✨ Keep Innovating | Keep Growing | Keep Building ✨</b>
 </p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaKumarJha&theme=onedark" alt="trophies" />
-</p>
-
----
-
-### 💡 Key Strengths
-- ✅ Multi-domain skills (Programming + Data Analytics + Prompt Engineering)  
-- ✅ Entrepreneurial mindset with future business vision  
-- ✅ Fast learner & growth-oriented personality  
-- ✅ Strong adaptability and problem-solving approach  
-
----
-
-### 🐍 Watch My Contributions Snake
-<p align="center">
-  <img src="https://github.com/AdityaKumarJha/AdityaKumarJha/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
