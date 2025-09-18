@@ -42,10 +42,7 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaKumarJha&theme=matrix&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
-</p>
+
 
 ---
 
@@ -57,10 +54,7 @@
 
 ---
 
-## 🐍 Dynamic Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaKumarJha/AdityaKumarJha/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+
 
 ---
 
